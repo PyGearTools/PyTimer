@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 # Taschenrechner
 # Copyright (C) 2025 Anton Schäfer
-# Dieses Programm ist freie Software unter GPLv3.
-# Eine Kopie der Lizenz befindet sich in der LICENSE-Datei.
+#
+# Dieses Programm ist freie Software: Sie können es unter den Bedingungen
+# der GNU General Public License Version 3 weitergeben und/oder modifizieren.
+# Siehe <https://www.gnu.org/licenses/>.
+#
+# Dieses Programm wird ohne jegliche Garantie verbreitet, soweit gesetzlich zulässig.
+# Details finden Sie in der GPLv3-Lizenz in der beiliegenden LICENSE-Datei.
 
 def add(a, b):
     return a + b
