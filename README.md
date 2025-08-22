@@ -57,9 +57,3 @@ Dieses Projekt steht unter der GNU General Public License Version 3 (GPLv3).
 Copyright (C) 2025 Anton Schäfer.
 Eine Kopie der Lizenz befindet sich in der LICENSE-Datei.
 Weitere Informationen: https://www.gnu.org/licenses/gpl-3.0.html
-
-Beitrag
-
-Beiträge sind willkommen! Einfach Fork erstellen, Änderungen vorn
-ehmen und Pull Request senden.
-
